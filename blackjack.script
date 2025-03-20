@@ -1,0 +1,49 @@
+Script started on 2023-03-02 11:47:07-08:00
+]0;edilin@WWWSTU-P01:~/ceng231/hw3[edilin@WWWSTU-P01 hw3]$ ls~ceng231/bin/turnin.shls[K~ceng231/bin/turnin.shls[K[Kg[Kgcc -[Kblackjh[K[Kjack.c -anso[Ki -Wall -o blackjack
+]0;edilin@WWWSTU-P01:~/ceng231/hw3[edilin@WWWSTU-P01 hw3]$ ./blackjack
+************************************
+** Welcome to CENG 231 BlackJack! **
+************************************
+Your first card is: 7
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 5
+Your combined value is: 12
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 13
+Your combined value is: 22
+Sorry. You lose!
+]0;edilin@WWWSTU-P01:~/ceng231/hw3[edilin@WWWSTU-P01 hw3]$ ./blackjack
+************************************
+** Welcome to CENG 231 BlackJack! **
+************************************
+Your first card is: 2
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 4
+Your combined value is: 6
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 1
+This card is an Ace. Select whether you want it to be worth 1 or 11: 11
+Your combined value is: 17
+Do you want another card?
+Type 1 for Yes, 0 for No: 0
+Dealer draws another card.
+Dealers card is: 8
+Dealers value is: 8, you have 17
+Dealer draws another card.
+Dealers card is: 2
+Dealers value is: 10, you have 17
+Dealer draws another card.
+Dealers card is: 6
+Dealers value is: 16, you have 17
+Dealer draws another card.
+Dealers card is: 4
+Dealers value is: 20, you have 17
+Dealer wins.
+]0;edilin@WWWSTU-P01:~/ceng231/hw3[edilin@WWWSTU-P01 hw3]$ exit
+exit
+
+Script done on 2023-03-02 11:48:04-08:00
